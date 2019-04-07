@@ -1,24 +1,6 @@
 name: supernova's blogs2222
-url: https://domeself.github.io/supernova1/ 
+url:
 description: aaaa
-title: adfdsfdsf
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      
-assets: /assets
-
-
-
-#### Language
-language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
-
-
 
 permalink: /themes/:title/
 
