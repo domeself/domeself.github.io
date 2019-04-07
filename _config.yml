@@ -2,6 +2,14 @@ name: supernova's blogs111111
 url: https://www.baidu.com/ 
 description: AAAAAAAAAAAAAAAAAAAA
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
 permalink: /themes/:title/
 
 gems: [jekyll-paginate]
