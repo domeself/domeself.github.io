@@ -9,6 +9,15 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      
+assets: /assets
+url:
+baseurl:
+
+#### Language
+language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
+
+
 
 permalink: /themes/:title/
 
