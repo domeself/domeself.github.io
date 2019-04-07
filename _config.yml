@@ -1,5 +1,5 @@
-name: supernova's blogs111111
-url: https://www.baidu.com/ 
+name: supernova's blogs11111122222222222
+url: https://domeself.github.io/supernova1/ 
 description: AAAAAAAAAAAAAAAAAAAA
 
 defaults:
@@ -11,8 +11,8 @@ defaults:
       layout: "post"
       
 assets: /assets
-url:
-baseurl:
+
+
 
 #### Language
 language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
